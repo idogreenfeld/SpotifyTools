@@ -6,7 +6,7 @@ import pandas as pd
 import spotipy.util as util
 from spotipy.oauth2 import SpotifyClientCredentials
 
-from SpotifyImporter.support_classes import Track
+from main_scripts.support_classes import Track
 
 
 def run(spotipy_client_id, spotipy_client_secret, spotipy_redirect_uri, spotify_username, playlist_name, playlist_file_path):
