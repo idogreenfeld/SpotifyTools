@@ -1,0 +1,24 @@
+﻿<?wpl version="1.0"?>
+<smil>
+    <head>
+        <title>Main by Date Added</title>
+    </head>
+    <body>
+        <seq>
+            <media src="\Music\Users\idogr\Music\Music\Infected Mushroom\Head Of NASA And The 2 Amish Boys\Bliss On Mushrooms (Feat. Miyavi).mp3" />
+            <media src="\Music\Users\idogr\Music\Music\Infected Mushroom\Head Of NASA And The 2 Amish Boys\Guitarmass.mp3" />
+            <media src="\Music\Users\idogr\Music\Music\Infected Mushroom\Head Of NASA And The 2 Amish Boys\Head Of NASA.mp3" />
+            <media src="\Music\Users\idogr\Music\Music\Infected Mushroom\Head Of NASA And The 2 Amish Boys\Chenchen Barvaz.mp3" />
+            <media src="\Music\Users\idogr\Music\Music\Infected Mushroom\Head Of NASA And The 2 Amish Boys\Walking On The Moon.mp3" />
+            <media src="\Music\Users\idogr\Music\Music\Infected Mushroom\Head Of NASA And The 2 Amish Boys\Here We Go Go Go.mp3" />
+            <media src="\Music\Users\idogr\Music\Music\Infected Mushroom\Head Of NASA And The 2 Amish Boys\Lost In Space.mp3" />
+            <media src="\Music\Temp\אסף אמדורסקי - הנצח הוא נצח.mp3" />
+            <media src="\Music\Temp\Lizzo - Juice (Official Video).mp3" />
+            <media src="\Music\Users\idogr\Music\Music\alt-J\An Awesome Wave\Taro-[AudioTrimmer.com].mp3" />
+            <media src="\Music\Downloads\Music\Lady Gaga &amp; Bradley Cooper - A Star Is Born Soundtrack (2018) Single Mp3 Song 320kbps Quality.mp3" />
+            <media src="\Music\Downloads\Music\Mark Ronson Ft. Miley Cyrus-Nothing Breaks Like A Heart.mp3" />
+            <media src="\Music\Users\idogr\Music\Music\MØ\Forever Neverland\Blur.mp3" />
+            <media src="\Music\Users\idogr\Music\Music\Sia\Move Your Body (Single Mix) - Single\Move Your Body.m4a" />
+        </seq>
+    </body>
+</smil>
